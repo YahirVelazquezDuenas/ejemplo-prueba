@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Formulario de Contacto</h1>
-    <form action="{{route('contacto')}}" method="GET">
+    <form action="alvaro" method="GET">
         <h3>Nombre</h3>
             <label for="nombre">Nombre:</label>
             <input type="text" id="nombre" name="nombre" placeholder="Nombre">
