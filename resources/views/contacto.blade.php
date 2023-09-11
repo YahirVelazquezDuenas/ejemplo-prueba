@@ -28,7 +28,7 @@
                 @endif 
                 ><br>
         <h3>Comentario</h3>
-            <label for="comentarios">Comentarios:</label>
+            <label for="comentario">Comentarios:</label>
         <br>
             <textarea id="comentario" name="comentario" placeholder="Comentarios" rows="3" cols="40"></textarea>
         <br>
